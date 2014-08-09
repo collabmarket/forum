@@ -1,12 +1,12 @@
 ---
 layout: category
-title: General Help
+title: Ayuda General
 category: true
-summary: Get help with any aspect of the Jekyll Disqus Forum.
-id: 2736939
+summary: Conversación sobre mercados cooperativos.
+id: 3183851
 group-id: help
 ---
 
-# General help
+# Ayuda General
 
-Get help with any aspect of the Jekyll Disqus Forum.
+Grupo conversación CollabMarket.org

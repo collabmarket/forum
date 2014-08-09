@@ -1,11 +1,11 @@
 ---
 layout: category-group
-title: Help
+title: P2P Lending Chile
 category-group: true
-summary: Find what you need help with here!
+summary: Aprender y compartir sobre el mundo de las inversiones de persona a persona
 id: help
 ---
 
-# Help
+# Ayuda
 
 Get help using Jekyll Disqus Forum.

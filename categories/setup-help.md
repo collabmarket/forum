@@ -1,11 +1,11 @@
 ---
 layout: category
-title: Setup Help
+title: Prestamos p2p
 category: true
-summary: Get help setting up the Jekyll Disqus Forum
-id: 2736938
+summary: Ayuda sobre prestamos p2p
+id: 3205789
 group-id: help
 ---
 
-# Setup Help
-Get help setting up the Jekyll Disqus Forum
+# Prestamos-p2p
+Grupo de inversionistas de la plataforma Cumplo.cl
