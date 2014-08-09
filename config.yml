@@ -19,7 +19,7 @@ url: http://collabmarket.github.io/forum
 exclude: [.gitignore]
 
 # The disqus shortname for your forum
-disqus_shortname: forum
+disqus_shortname: collabmarket
 
 # The public key for your disqus application
 disqus_publickey: ioY0PbgHRK2ol8Af54yS2tMmNng4GIFhUQZKUYcRt87zhrsvjM95qRAdoviAwT2B
