@@ -1,5 +1,6 @@
 Jekyll-Disqus-Forum
 ============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/collabmarket/forum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A simple forum with pages managed by Jekyll and threads powered by Disqus.  Check out our [sample site](http://klcodanr.github.io/Jekyll-Disqus-Forum/).
 
